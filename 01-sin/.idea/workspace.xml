@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9e0f23c-7909-45ab-ba9d-731bf75ee80c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imgs/figure-sin-10k.png" afterPath="$PROJECT_DIR$/imgs/figure-sin-10k.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model_params.py" afterPath="$PROJECT_DIR$/model_params.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sin-predictor.py" afterPath="$PROJECT_DIR$/sin-predictor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="01-sin.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="b9e0f23c-7909-45ab-ba9d-731bf75ee80c" time="1380818038718" ignored="false" />
-    <file path="/sin-predictor.py" changelist="b9e0f23c-7909-45ab-ba9d-731bf75ee80c" time="1380956643677" ignored="false" />
+    <file path="/sin-predictor.py" changelist="b9e0f23c-7909-45ab-ba9d-731bf75ee80c" time="1380966129488" ignored="false" />
     <file path="/model_params.py" changelist="b9e0f23c-7909-45ab-ba9d-731bf75ee80c" time="1380729576005" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +33,7 @@
       <file leaf-file-name="sin-predictor.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sin-predictor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="15" selection-start="2148" selection-end="2148" vertical-scroll-proportion="0.19256018">
+            <state line="80" column="0" selection-start="2732" selection-end="2732" vertical-scroll-proportion="0.68490154">
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -43,7 +44,7 @@
       <file leaf-file-name="model_params.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model_params.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="34" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.0">
+            <state line="45" column="26" selection-start="1810" selection-end="1810" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -331,16 +332,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../nta/lib/python2.7/site-packages/nupic/frameworks/opf/modelfactory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="46" selection-start="853" selection-end="853" vertical-scroll-proportion="0.07658643">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/model_params.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="34" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.0">
+        <state line="45" column="26" selection-start="1810" selection-end="1810" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sin-predictor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="15" selection-start="2148" selection-end="2148" vertical-scroll-proportion="0.19256018">
+        <state line="80" column="0" selection-start="2732" selection-end="2732" vertical-scroll-proportion="0.68490154">
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

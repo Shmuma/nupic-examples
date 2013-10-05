@@ -40,17 +40,15 @@ MODEL_PARAMS = {
             # >=3: even more info (see compute() in py/regions/RecordSensor.py)
             'verbosity' : 0,
 
-            # CPU usage encoder.
             'encoders': {
                 'y': {
                     'fieldname': u'y',
                     'n': 100,
                     'name': u'y',
                     'type': 'ScalarEncoder',
-#                    'type': 'DeltaEncoder',
                     'minval': -1.0,
                     'maxval': 1.0,
-                    'w': 11
+                    'w': 21
                 },
             },
 
